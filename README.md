@@ -1,5 +1,5 @@
 # Query
-A simple class to make interacting with MySQl databases easier
+A simple class to make interacting with MySQL databases easier
 
 # Installation
 Simply copy `Query.php` into your code base and require it
