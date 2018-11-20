@@ -1,0 +1,1 @@
+I need to add a proper testing apparatus. These files simply exercise the `Query` class.
